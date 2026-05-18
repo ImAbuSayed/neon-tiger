@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-tiger/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Neon Tiger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-tiger/) |
+| **Get License** | [Obtain a Music License for Neon Tiger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-tiger/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `496a1e9c9ef2f9e2c48a90dc24b9b7257aa92bfce018bded4e325c0bd43b2213` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Neon Tiger
+
+This log tracks the cryptographic history and versioning for the song **Neon Tiger** (neon-tiger).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T19:35:37.493546 | `v1` | `496a1e9c9ef2f9e2c48a90dc24b9b7257aa92bfce018bded4e325c0bd43b2213` | `eb5fe27dfd7271d45074c6d7c72d0b25615ffe5daf5ad33d684ce28f55458ea9` | `2026-05-18_neon-tiger-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
